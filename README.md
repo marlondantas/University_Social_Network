@@ -11,13 +11,13 @@ Members:
 Description:
     This project consists in a interaction platform for colleges students, aiming at the interaction between colleges of same net. Our mission in this project is make the social network using XML and C#.
   
-  Fatec Cruzeiro Prof. Waldomiro May - Third Semester Project - Social Network in C#
+  Fatec Cruzeiro Prof. Waldomiro May - Projeto Terceiro Semestre - Rede Social em C#
 
 Membros:
-  Marlon Dantas de Albuquerque
-  Ashley Fernanda do Nascimento
-  Hermany Vieira Oliveira
-  Matheus Henrique Barbosa
+  Marlon Dantas de Albuquerque -
+  Ashley Fernanda do Nascimento -
+  Hermany Vieira Oliveira -
+  Matheus Henrique Barbosa -
   Fabio Costa
 
 Descrição:
